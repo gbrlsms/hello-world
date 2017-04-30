@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Gabriel here, an electrical engineering student working on his development skills.
